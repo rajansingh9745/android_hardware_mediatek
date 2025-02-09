@@ -1,1 +1,1 @@
-# Common hardware components for MediaTek devices
+# Common hardware components for MediaTek devices.
